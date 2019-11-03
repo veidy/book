@@ -19,6 +19,7 @@ file:///Users/veidy/.pub-cache/hosted/pub.flutter-io.cn/collection-1.14.11/lib/s
 file:///Users/veidy/.pub-cache/hosted/pub.flutter-io.cn/collection-1.14.11/lib/src/utils.dart
 file:///Users/veidy/.pub-cache/hosted/pub.flutter-io.cn/collection-1.14.11/lib/src/wrappers.dart
 file:///Users/veidy/.pub-cache/hosted/pub.flutter-io.cn/meta-1.1.7/lib/meta.dart
+file:///Users/veidy/.pub-cache/hosted/pub.flutter-io.cn/share-0.6.3+1/lib/share.dart
 file:///Users/veidy/.pub-cache/hosted/pub.flutter-io.cn/typed_data-1.1.6/lib/typed_buffers.dart
 file:///Users/veidy/.pub-cache/hosted/pub.flutter-io.cn/vector_math-2.0.8/lib/hash.dart
 file:///Users/veidy/.pub-cache/hosted/pub.flutter-io.cn/vector_math-2.0.8/lib/src/vector_math_64/aabb2.dart
@@ -597,7 +598,9 @@ file:///Users/veidy/Documents/veidy/flutter/flutter/packages/flutter/lib/src/wid
 file:///Users/veidy/Documents/veidy/flutter/flutter/packages/flutter/lib/widgets.dart
 file:///Users/veidy/Documents/veidy/project/flutter_book/.dart_tool/flutter_build/41d274a81c1261296bb37c7d7ede0103/main.dart
 file:///Users/veidy/Documents/veidy/project/flutter_book/.packages
+file:///Users/veidy/Documents/veidy/project/flutter_book/lib/book/BookDic.dart
 file:///Users/veidy/Documents/veidy/project/flutter_book/lib/book/BookInfo.dart
+file:///Users/veidy/Documents/veidy/project/flutter_book/lib/book/BookRead.dart
 file:///Users/veidy/Documents/veidy/project/flutter_book/lib/config/Constants.dart
 file:///Users/veidy/Documents/veidy/project/flutter_book/lib/home/HomeNavigation.dart
 file:///Users/veidy/Documents/veidy/project/flutter_book/lib/home/collection/TabCollection.dart
@@ -605,3 +608,4 @@ file:///Users/veidy/Documents/veidy/project/flutter_book/lib/home/me/Me.dart
 file:///Users/veidy/Documents/veidy/project/flutter_book/lib/home/plaza/Plaza.dart
 file:///Users/veidy/Documents/veidy/project/flutter_book/lib/main.dart
 file:///Users/veidy/Documents/veidy/project/flutter_book/lib/model/AppEntity.dart
+file:///Users/veidy/Documents/veidy/project/flutter_book/lib/utils/screen.dart
