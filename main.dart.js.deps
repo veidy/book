@@ -722,6 +722,8 @@ file:///Users/veidy/Documents/veidy/project/flutter_book/lib/model/response/Book
 file:///Users/veidy/Documents/veidy/project/flutter_book/lib/model/response/BookResult.g.dart
 file:///Users/veidy/Documents/veidy/project/flutter_book/lib/model/response/ChapterResult.dart
 file:///Users/veidy/Documents/veidy/project/flutter_book/lib/model/response/ChapterResult.g.dart
+file:///Users/veidy/Documents/veidy/project/flutter_book/lib/net/HttpUtils.dart
+file:///Users/veidy/Documents/veidy/project/flutter_book/lib/net/ResponseData.dart
 file:///Users/veidy/Documents/veidy/project/flutter_book/lib/net/dio_utils.dart
 file:///Users/veidy/Documents/veidy/project/flutter_book/lib/net/repository.dart
 file:///Users/veidy/Documents/veidy/project/flutter_book/lib/reader/article_provider.dart
